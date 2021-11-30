@@ -3,19 +3,44 @@ Coin stand inspired by Fallout series of games.
 .pk2 files can be opened in PTC Creo
 
 Triangle Base, 8 Sep 2019
+    Created the basic shape
+    
 Triangle Chamfered, 8 Sep 2019
+    Narrowed the shape
+    
 Triangle Lettered, 8 Sep 2019
+    Used text tool to create top text of logo
+    
 Triangle Shelled, 17 Sep 2019
+    Hollowed out the shape
+    
 Triangle Lettered 2, 17 Sep 2019
+    Began the process of *sigh* manually italicising each letter
+    
 Triangle Lettered 3, 26 Sep 2019
+    Pain
+    
 Triangle Lettered 4, 27 Sep 2019
+    Agony
+    
 Triangle Lettered 5, 1 Jan 2020
+    Release
+    
 Triangle Lettered 6, 28 Nov 2021
+    Started on the bottom text
+
 Triangle Lettered 7, 28 Nov 2021
+    Finished on the uniquely restyled impact font and background trapezoid
 
-About this time I grew annoyed of the floating letter parts I used to manually, painfully italicize the text the hard way.
-So I projected them and cleaned up the construction lines and geometry and just pulled material to emboss the logo.
-What am I, insane?
-
+Cope
+  About this time I grew annoyed of the floating letter parts I used to manually, painfully italicize the text the hard way.
+  What am I, insane? Couldn't I have just made a single 15 degree reference line on the one workplane,
+  and stretched the vertical construction lines parallel to it,
+  instead of making a new part, workplane, and reference line for each letter?
+  
 TriangleStandReLogo, 28 Nov 2021
+  So I projected the italic letter parts as construction back onto the workplane from whence they were borne, and cleaned up the construction lines and geometry 
+
 TriangleStandReEmbossed, 28 Nov 2021
+   and just pulled material to emboss the logo one level of elevation at a time
+   TheMoreYouKnow.mov
